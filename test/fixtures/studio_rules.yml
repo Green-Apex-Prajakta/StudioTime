@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  studio_id: 1
+  studio_rule: MyText
+  cancellation_policy: MyText
+
+two:
+  studio_id: 1
+  studio_rule: MyText
+  cancellation_policy: MyText

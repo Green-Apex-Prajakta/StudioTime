@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  name: MyString
+  details: MyString
+  type: 
+  min_booking: 1
+  max_studio_occupancy: 1
+  studio_hrs: 2021-12-06 11:09:21
+  advance_time: MyString
+  past_clients: MyText
+  audio_samples: MyString
+
+two:
+  user_id: 1
+  name: MyString
+  details: MyString
+  type: 
+  min_booking: 1
+  max_studio_occupancy: 1
+  studio_hrs: 2021-12-06 11:09:21
+  advance_time: MyString
+  past_clients: MyText
+  audio_samples: MyString
